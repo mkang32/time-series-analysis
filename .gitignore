@@ -1,0 +1,4 @@
+*.DS_Store
+*.ipynb_checkpoints
+venv-timeseries
+data/kaggle_energy/org
